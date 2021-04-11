@@ -1,0 +1,31 @@
+#about{
+    width: 100%;
+    height: 100vh;
+}
+
+section#about{
+    background: white;
+}
+
+.container-about{
+    position: relative;
+    height: 100%;
+    border: 3px solid green; 
+}
+
+.coming-soon {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  }
+
+  h1.responsive-headline {
+    font: 90px/1.1em 'opensans-bold', sans-serif;
+    color: black;
+    letter-spacing: -2px;
+    margin: 0 auto 18px auto;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
+ }

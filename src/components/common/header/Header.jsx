@@ -62,6 +62,7 @@ function Header(){
                     <ul id="nav">
                         <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
                         <li><a className="smoothscroll" href="#timeline">Timeline</a></li>
+                        <li><a className="smoothscroll" href="#about">Coming soon</a></li>
                     </ul>
                 </nav>
             </div>
