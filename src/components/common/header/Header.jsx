@@ -79,7 +79,7 @@ function Header(){
                             <li><a href="https://www.linkedin.com/in/thee-sien-sew-17063b16b/"><FaLinkedin/></a></li>
                         </ul>
                         <p>
-                            <a className="button-download" href="https://docs.google.com/uc?export=download&id=1YpKhI5ESxnAOuzjkohGFKcZq0baenA6G" download><i className="icon download"><FaFileDownload/></i>Download Resume</a>
+                            <a className="button-download" href="https://docs.google.com/uc?export=download&id=1mQ9WubfhkvCYFXm7n1dlNlmqQj6seZdd" download><i className="icon download"><FaFileDownload/></i>Download Resume</a>
                         </p>
                     </div>
                 </div>

@@ -17,7 +17,6 @@ header{
 }
 .navbar{
     height: 6%;
-    display:flex;
     align-items:center;
     z-index: 2;/*to always appear in front of screen*/
 }
